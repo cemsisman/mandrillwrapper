@@ -1,2 +1,2 @@
-mandrillwrapper
-===============
+Mandrill C# Wrapper
+======================
